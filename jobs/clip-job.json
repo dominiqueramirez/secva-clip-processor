@@ -1,0 +1,1801 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=oDxo_xGsZ0M",
+  "video_title": "Doug Collins testifies before Senate on VA budget request",
+  "analyzed_date": "2026-05-22",
+  "padding": 0.5,
+  "clips": [
+    {
+      "clip_id": "SC-01",
+      "slug": "claims-backlog-crushed",
+      "title": "Claims Backlog Crushed — 260K Down to 75K",
+      "start": "00:14:43.000",
+      "end": "00:15:28.000",
+      "duration": 45.0,
+      "tier": 1,
+      "topics": [
+        "Benefits & Claims"
+      ],
+      "description": "Secretary Collins highlights VA employees reducing the claims backlog from 260,000 to 75,000, cutting average completion time from 137 to 77 days at 94% accuracy.",
+      "sample_post": "\"Our VA employees took a backlog of 260,000 and brought it down to 75,000. Average days to complete: 137 down to 77. At a 94% accuracy rate.\" — Secretary Collins @SecVetAffairs",
+      "transcript": "I want to say thank you to all the VA employees that we have who have made amazing changes over the last year. They have taken a backlog of 260,000 and brought it down to 75,000. An average days to complete of 137 down to 77 at a 94% accuracy rate and also at a same percentage of the same ones that were being appealed as the same ones now.",
+      "srt_cues": [
+        {
+          "start": "00:14:44.079",
+          "end": "00:14:46.470",
+          "text": "and actually using higher level reviews to get things done inside the VBA before"
+        },
+        {
+          "start": "00:14:46.480",
+          "end": "00:14:47.910",
+          "text": "to get things done inside the VBA before they have to actually go to the board."
+        },
+        {
+          "start": "00:14:47.920",
+          "end": "00:14:49.509",
+          "text": "they have to actually go to the board. The board is a situation I would love to"
+        },
+        {
+          "start": "00:14:49.519",
+          "end": "00:14:50.870",
+          "text": "The board is a situation I would love to talk to you continuing about chairman,"
+        },
+        {
+          "start": "00:14:50.880",
+          "end": "00:14:52.710",
+          "text": "talk to you continuing about chairman, ranking member about how we can redo"
+        },
+        {
+          "start": "00:14:52.720",
+          "end": "00:14:53.990",
+          "text": "ranking member about how we can redo some of the board to make it more"
+        },
+        {
+          "start": "00:14:54.000",
+          "end": "00:14:56.069",
+          "text": "some of the board to make it more efficient and getting these claims out."
+        },
+        {
+          "start": "00:14:56.079",
+          "end": "00:14:58.470",
+          "text": "efficient and getting these claims out. But also, I just go to the VHA. Our VHA,"
+        },
+        {
+          "start": "00:14:58.480",
+          "end": "00:15:00.230",
+          "text": "But also, I just go to the VHA. Our VHA, our hospitals are doing amazing work in"
+        },
+        {
+          "start": "00:15:00.240",
+          "end": "00:15:01.829",
+          "text": "our hospitals are doing amazing work in what we're doing and we're hiring. We"
+        },
+        {
+          "start": "00:15:01.839",
+          "end": "00:15:03.509",
+          "text": "what we're doing and we're hiring. We got a our hiring processes I'm looking"
+        },
+        {
+          "start": "00:15:03.519",
+          "end": "00:15:05.030",
+          "text": "got a our hiring processes I'm looking forward to talking about. But also"
+        },
+        {
+          "start": "00:15:05.040",
+          "end": "00:15:06.389",
+          "text": "forward to talking about. But also there's two points that I want to points"
+        },
+        {
+          "start": "00:15:06.399",
+          "end": "00:15:08.949",
+          "text": "there's two points that I want to points of pride. Just in the last month we have"
+        },
+        {
+          "start": "00:15:08.959",
+          "end": "00:15:11.509",
+          "text": "of pride. Just in the last month we have had a 100% rating uh from independent"
+        },
+        {
+          "start": "00:15:11.519",
+          "end": "00:15:13.509",
+          "text": "had a 100% rating uh from independent outside source on safety. We're the only"
+        },
+        {
+          "start": "00:15:13.519",
+          "end": "00:15:15.189",
+          "text": "outside source on safety. We're the only integrated healthcare system in the"
+        },
+        {
+          "start": "00:15:15.199",
+          "end": "00:15:17.829",
+          "text": "integrated healthcare system in the country that can say that 100% safety"
+        },
+        {
+          "start": "00:15:17.839",
+          "end": "00:15:19.990",
+          "text": "country that can say that 100% safety rating across the board. We also have"
+        },
+        {
+          "start": "00:15:20.000",
+          "end": "00:15:22.230",
+          "text": "rating across the board. We also have the highest CMS ratings which measures"
+        },
+        {
+          "start": "00:15:22.240",
+          "end": "00:15:24.629",
+          "text": "the highest CMS ratings which measures all hospitals public and private. Our"
+        },
+        {
+          "start": "00:15:24.639",
+          "end": "00:15:26.870",
+          "text": "all hospitals public and private. Our five stars and four stars significantly"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-02",
+      "slug": "only-100-percent-safety-rating",
+      "title": "Only Healthcare System with 100% Safety Rating",
+      "start": "00:16:01.000",
+      "end": "00:16:40.000",
+      "duration": 39.0,
+      "tier": 1,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins announces VA achieved a 100% safety rating from an independent source — the only integrated healthcare system in the country that can say that.",
+      "sample_post": "\"We have a 100% safety rating from an independent outside source. We're the only integrated healthcare system in the country that can say that.\" — @SecVetAffairs",
+      "transcript": "Just in the last month we have had a 100% rating from independent outside source on safety. We're the only integrated healthcare system in the country that can say that. 100% safety rating across the board. We also have the highest CMS ratings which measures all hospitals public and private. Our five stars and four stars significantly outweigh any in any of your states if you ask your public and private hospitals.",
+      "srt_cues": [
+        {
+          "start": "00:16:01.440",
+          "end": "00:16:03.749",
+          "text": "there's also an issue when we talk about staffing we talk about our work is"
+        },
+        {
+          "start": "00:16:03.759",
+          "end": "00:16:04.949",
+          "text": "staffing we talk about our work is something that I brought up before and"
+        },
+        {
+          "start": "00:16:04.959",
+          "end": "00:16:06.389",
+          "text": "something that I brought up before and I'm going to bring it up again we have a"
+        },
+        {
+          "start": "00:16:06.399",
+          "end": "00:16:08.550",
+          "text": "I'm going to bring it up again we have a 14% increase over the last 5 years in"
+        },
+        {
+          "start": "00:16:08.560",
+          "end": "00:16:10.150",
+          "text": "14% increase over the last 5 years in FTEEs and by the way this budget"
+        },
+        {
+          "start": "00:16:10.160",
+          "end": "00:16:12.470",
+          "text": "FTEEs and by the way this budget reflects an increase in FTEEs even in"
+        },
+        {
+          "start": "00:16:12.480",
+          "end": "00:16:14.150",
+          "text": "reflects an increase in FTEEs even in our VHA and our healthcare this is"
+        },
+        {
+          "start": "00:16:14.160",
+          "end": "00:16:15.910",
+          "text": "our VHA and our healthcare this is reflected in the budget presented by the"
+        },
+        {
+          "start": "00:16:15.920",
+          "end": "00:16:18.310",
+          "text": "reflected in the budget presented by the president but one of the things is 14%"
+        },
+        {
+          "start": "00:16:18.320",
+          "end": "00:16:20.629",
+          "text": "president but one of the things is 14% increase in FTEES while we have had a 6%"
+        },
+        {
+          "start": "00:16:20.639",
+          "end": "00:16:24.230",
+          "text": "increase in FTEES while we have had a 6% increase in actual contact with patients"
+        },
+        {
+          "start": "00:16:24.240",
+          "end": "00:16:25.990",
+          "text": "increase in actual contact with patients no hospital and no other organization"
+        },
+        {
+          "start": "00:16:26.000",
+          "end": "00:16:28.949",
+          "text": "no hospital and no other organization you have consistently outranks FTEES or"
+        },
+        {
+          "start": "00:16:28.959",
+          "end": "00:16:30.629",
+          "text": "you have consistently outranks FTEES or full-time equivalencies and has less"
+        },
+        {
+          "start": "00:16:30.639",
+          "end": "00:16:32.310",
+          "text": "full-time equivalencies and has less patient encounters. I actually have some"
+        },
+        {
+          "start": "00:16:32.320",
+          "end": "00:16:35.590",
+          "text": "patient encounters. I actually have some facilities that have had 33% increases"
+        },
+        {
+          "start": "00:16:35.600",
+          "end": "00:16:39.030",
+          "text": "facilities that have had 33% increases in staffing and negative 16 in actual"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-03",
+      "slug": "va-care-is-va-care",
+      "title": "VA Care Is VA Care",
+      "start": "00:18:50.000",
+      "end": "00:19:28.000",
+      "duration": 38.0,
+      "tier": 1,
+      "topics": [
+        "Community Care",
+        "Leadership & Culture"
+      ],
+      "description": "Collins delivers his defining statement on community care: VA care is VA care regardless of whether it's direct or community-based, and challenges the premise that community doctors are inferior.",
+      "sample_post": "\"VA care is VA care — whether it comes in direct form or community care. When you say veterans get less quality care in the community, you're accusing your community doctors of being less doctors.\" — @SecVetAffairs",
+      "transcript": "I believe community care is a vital part. It is VA care. I've said this from confirmation forward. VA care is VA care whether it comes in direct form or it comes in community care. When you make a statement that veterans would get less quality of care in the community, you do realize you're actually accusing your doctors in the community of being less doctors. That's — you got to think about what you're saying.",
+      "srt_cues": [
+        {
+          "start": "00:18:50.160",
+          "end": "00:18:51.590",
+          "text": "believe community care is a vital part. It is VA care. I've said this from a"
+        },
+        {
+          "start": "00:18:51.600",
+          "end": "00:18:53.750",
+          "text": "It is VA care. I've said this from a confirmation forward. VA care is VA care"
+        },
+        {
+          "start": "00:18:53.760",
+          "end": "00:18:55.029",
+          "text": "confirmation forward. VA care is VA care whether it comes in direct form or it"
+        },
+        {
+          "start": "00:18:55.039",
+          "end": "00:18:57.510",
+          "text": "whether it comes in direct form or it comes in community care. Um also it is"
+        },
+        {
+          "start": "00:18:57.520",
+          "end": "00:18:59.590",
+          "text": "comes in community care. Um also it is sort of interesting to me when we make a"
+        },
+        {
+          "start": "00:18:59.600",
+          "end": "00:19:01.029",
+          "text": "sort of interesting to me when we make a statement. I know it's not meant to be"
+        },
+        {
+          "start": "00:19:01.039",
+          "end": "00:19:02.470",
+          "text": "statement. I know it's not meant to be this way, but when you make a statement"
+        },
+        {
+          "start": "00:19:02.480",
+          "end": "00:19:04.470",
+          "text": "this way, but when you make a statement that veterans would get less quality of"
+        },
+        {
+          "start": "00:19:04.480",
+          "end": "00:19:07.029",
+          "text": "that veterans would get less quality of care in the community, you do realize"
+        },
+        {
+          "start": "00:19:07.039",
+          "end": "00:19:09.029",
+          "text": "care in the community, you do realize you're actually accusing your doctors in"
+        },
+        {
+          "start": "00:19:09.039",
+          "end": "00:19:11.750",
+          "text": "you're actually accusing your doctors in the community of being less doctors."
+        },
+        {
+          "start": "00:19:11.760",
+          "end": "00:19:13.110",
+          "text": "the community of being less doctors. That's you got to think about what"
+        },
+        {
+          "start": "00:19:13.120",
+          "end": "00:19:15.029",
+          "text": "That's you got to think about what you're saying when you get that veterans"
+        },
+        {
+          "start": "00:19:15.039",
+          "end": "00:19:16.710",
+          "text": "you're saying when you get that veterans do have specific needs, but when we have"
+        },
+        {
+          "start": "00:19:16.720",
+          "end": "00:19:18.310",
+          "text": "do have specific needs, but when we have impact care, orthopedics, and things"
+        },
+        {
+          "start": "00:19:18.320",
+          "end": "00:19:19.830",
+          "text": "impact care, orthopedics, and things like that, you're saying that direct"
+        },
+        {
+          "start": "00:19:19.840",
+          "end": "00:19:21.510",
+          "text": "like that, you're saying that direct care doctors that treat everybody else"
+        },
+        {
+          "start": "00:19:21.520",
+          "end": "00:19:23.270",
+          "text": "care doctors that treat everybody else in your community are not up to par. We"
+        },
+        {
+          "start": "00:19:23.280",
+          "end": "00:19:24.630",
+          "text": "in your community are not up to par. We got to be very careful at how we word"
+        },
+        {
+          "start": "00:19:24.640",
+          "end": "00:19:26.390",
+          "text": "got to be very careful at how we word that. But in direct answer to your"
+        },
+        {
+          "start": "00:19:26.400",
+          "end": "00:19:27.750",
+          "text": "that. But in direct answer to your question, this is a really a good part"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-04",
+      "slug": "women-veterans-obgyn-fix",
+      "title": "Women Veterans No Longer Need Referral for OB/GYN",
+      "start": "00:36:26.000",
+      "end": "00:37:08.000",
+      "duration": 42.0,
+      "tier": 1,
+      "topics": [
+        "Women Veterans"
+      ],
+      "description": "Collins describes eliminating the requirement for women veterans to go through a primary care doctor before seeing an OB/GYN — a step no civilian woman has to take.",
+      "sample_post": "\"Our female veterans had to go to their primary care doctor just to get to OB/GYN care. No woman in the private sector has to do that. We took that out.\" — Secretary Collins @SecVetAffairs",
+      "transcript": "One of the things that I did last year is I found out that our female veterans were having to go to their primary care doctor, then to go to OBGYN care, that they were having to make a second stop. There's no female in this room who gets private care who has to do that. They go straight to their OBGYn doctors. We took that out and said no, you don't have to go through this — what I thought was a foolish step — to go through a primary care to then go to your doctor and it was delaying care.",
+      "srt_cues": [
+        {
+          "start": "00:36:25.680",
+          "end": "00:36:27.589",
+          "text": "into several of our facilities that retool parts of their departments to"
+        },
+        {
+          "start": "00:36:27.599",
+          "end": "00:36:30.150",
+          "text": "retool parts of their departments to have a women's uh uh health section. But"
+        },
+        {
+          "start": "00:36:30.160",
+          "end": "00:36:31.750",
+          "text": "have a women's uh uh health section. But also, one of the things that I did last"
+        },
+        {
+          "start": "00:36:31.760",
+          "end": "00:36:34.630",
+          "text": "also, one of the things that I did last year is I found out that our female"
+        },
+        {
+          "start": "00:36:34.640",
+          "end": "00:36:35.990",
+          "text": "year is I found out that our female veterans were having to go to their"
+        },
+        {
+          "start": "00:36:36.000",
+          "end": "00:36:38.390",
+          "text": "veterans were having to go to their primary care doctor, then to go to OBGY"
+        },
+        {
+          "start": "00:36:38.400",
+          "end": "00:36:39.990",
+          "text": "primary care doctor, then to go to OBGY care, that they were having to make a"
+        },
+        {
+          "start": "00:36:40.000",
+          "end": "00:36:41.589",
+          "text": "care, that they were having to make a second stop. There's no female in this"
+        },
+        {
+          "start": "00:36:41.599",
+          "end": "00:36:43.190",
+          "text": "second stop. There's no female in this room who gets private care who has to do"
+        },
+        {
+          "start": "00:36:43.200",
+          "end": "00:36:45.430",
+          "text": "room who gets private care who has to do that. They go straight to their OBGYn"
+        },
+        {
+          "start": "00:36:45.440",
+          "end": "00:36:47.990",
+          "text": "that. They go straight to their OBGYn doctors. We took that out and said no,"
+        },
+        {
+          "start": "00:36:48.000",
+          "end": "00:36:49.589",
+          "text": "doctors. We took that out and said no, you don't have to go through this this"
+        },
+        {
+          "start": "00:36:49.599",
+          "end": "00:36:51.750",
+          "text": "you don't have to go through this this what I thought was a foolish step to go"
+        },
+        {
+          "start": "00:36:51.760",
+          "end": "00:36:53.349",
+          "text": "what I thought was a foolish step to go through a primary care to then go to"
+        },
+        {
+          "start": "00:36:53.359",
+          "end": "00:36:54.950",
+          "text": "through a primary care to then go to your doctor and it was delaying care in"
+        },
+        {
+          "start": "00:36:54.960",
+          "end": "00:36:56.950",
+          "text": "your doctor and it was delaying care in that time. So, um we took that out"
+        },
+        {
+          "start": "00:36:56.960",
+          "end": "00:36:58.870",
+          "text": "that time. So, um we took that out that's being wellreceived and again"
+        },
+        {
+          "start": "00:36:58.880",
+          "end": "00:37:00.710",
+          "text": "that's being wellreceived and again female veterans uh can also access"
+        },
+        {
+          "start": "00:37:00.720",
+          "end": "00:37:02.630",
+          "text": "female veterans uh can also access community care. We've also laid best"
+        },
+        {
+          "start": "00:37:02.640",
+          "end": "00:37:03.910",
+          "text": "community care. We've also laid best medical interest which takes into"
+        },
+        {
+          "start": "00:37:03.920",
+          "end": "00:37:05.510",
+          "text": "medical interest which takes into account the needs of the veteran and the"
+        },
+        {
+          "start": "00:37:05.520",
+          "end": "00:37:07.349",
+          "text": "account the needs of the veteran and the caregivers many times in that situation"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-05",
+      "slug": "construction-is-stupid",
+      "title": "Federal Construction Process Is Broken",
+      "start": "01:26:20.000",
+      "end": "01:27:02.000",
+      "duration": 42.0,
+      "tier": 1,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins bluntly calls out the federal construction process: his hometown built a bigger hospital for $800M in 24 months while VA spends $1.6B over 5 years. Calls it 'stupid.'",
+      "sample_post": "\"My hometown built a bigger hospital for $800 million in 24 months. It's going to take us 5 years at $1.6 billion. The federal government is the only one that builds this way. It's stupid.\" — @SecVetAffairs",
+      "transcript": "My hometown built a bigger facility with ERs, ORs and everything else for 800 million, did it in 24 months. It's going to take us 5 years. I mean it's just the craziness of how our construction goes right now. The federal government is the only one that builds this way. It's stupid. We've got to be able to build it at a single time. I'm talking probably not like a secretary of a department should, but we've got to fix the system. It's not functioning for our veterans and it's not functioning for the taxpayer.",
+      "srt_cues": [
+        {
+          "start": "01:26:19.920",
+          "end": "01:26:22.310",
+          "text": "step. By the time you continue to do that over 5 to 10 year cost projections,"
+        },
+        {
+          "start": "01:26:22.320",
+          "end": "01:26:24.950",
+          "text": "that over 5 to 10 year cost projections, your costs go from the original say one"
+        },
+        {
+          "start": "01:26:24.960",
+          "end": "01:26:28.390",
+          "text": "your costs go from the original say one billion dollars to 1.6 to 1.8 to 2"
+        },
+        {
+          "start": "01:26:28.400",
+          "end": "01:26:31.189",
+          "text": "billion dollars to 1.6 to 1.8 to 2 point, you know, two billion. You nobody"
+        },
+        {
+          "start": "01:26:31.199",
+          "end": "01:26:33.590",
+          "text": "point, you know, two billion. You nobody builds that way. We the federal"
+        },
+        {
+          "start": "01:26:33.600",
+          "end": "01:26:35.270",
+          "text": "builds that way. We the federal government is the only one that builds"
+        },
+        {
+          "start": "01:26:35.280",
+          "end": "01:26:38.229",
+          "text": "government is the only one that builds this way. It's stupid"
+        },
+        {
+          "start": "01:26:38.239",
+          "end": "01:26:39.750",
+          "text": "this way. It's stupid and but yet we do it all the time"
+        },
+        {
+          "start": "01:26:39.760",
+          "end": "01:26:41.590",
+          "text": "and but yet we do it all the time because all of us I'm going to put my"
+        },
+        {
+          "start": "01:26:41.600",
+          "end": "01:26:43.270",
+          "text": "because all of us I'm going to put my congressional when I was back in we all"
+        },
+        {
+          "start": "01:26:43.280",
+          "end": "01:26:44.550",
+          "text": "congressional when I was back in we all want to bring something home for the"
+        },
+        {
+          "start": "01:26:44.560",
+          "end": "01:26:45.910",
+          "text": "want to bring something home for the district. We all want to have that we're"
+        },
+        {
+          "start": "01:26:45.920",
+          "end": "01:26:47.590",
+          "text": "district. We all want to have that we're working toward that. But construction"
+        },
+        {
+          "start": "01:26:47.600",
+          "end": "01:26:49.750",
+          "text": "working toward that. But construction can't work this way. We've got to be"
+        },
+        {
+          "start": "01:26:49.760",
+          "end": "01:26:51.669",
+          "text": "can't work this way. We've got to be able to build it at a single time and"
+        },
+        {
+          "start": "01:26:51.679",
+          "end": "01:26:53.270",
+          "text": "able to build it at a single time and and again I'm talking probably not like"
+        },
+        {
+          "start": "01:26:53.280",
+          "end": "01:26:55.270",
+          "text": "and again I'm talking probably not like a secretary of a department should in"
+        },
+        {
+          "start": "01:26:55.280",
+          "end": "01:26:57.830",
+          "text": "a secretary of a department should in the sense of saying we've got to fix the"
+        },
+        {
+          "start": "01:26:57.840",
+          "end": "01:26:59.990",
+          "text": "the sense of saying we've got to fix the system. It's not functioning for our"
+        },
+        {
+          "start": "01:27:00.000",
+          "end": "01:27:01.189",
+          "text": "system. It's not functioning for our veterans and it's not functioning for"
+        },
+        {
+          "start": "01:27:01.199",
+          "end": "01:27:02.310",
+          "text": "veterans and it's not functioning for the taxpayer."
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-06",
+      "slug": "not-accepting-that-premise",
+      "title": "I'm Not Going to Accept That Premise",
+      "start": "01:58:24.000",
+      "end": "01:58:38.000",
+      "duration": 14.0,
+      "tier": 1,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins pushes back firmly when challenged on whether he understands veterans' concerns, declaring 'it's all I do.'",
+      "sample_post": "\"Any implication that I don't understand what veterans and veteran employees are saying — I'm not going to accept the premise of that question. Because it's all I do.\" — @SecVetAffairs",
+      "transcript": "I understand, Senator, we're good. Well, like I said, we'll go anywhere we need to go, but I'm out there making hard. But any implication that I don't understand what veterans and veteran employees are saying, I'm not going to talk. I'm not going to accept the premise of that question because it's all I do.",
+      "srt_cues": [
+        {
+          "start": "01:58:24.320",
+          "end": "01:58:24.470",
+          "text": "every visit I have made to facilities. I"
+        },
+        {
+          "start": "01:58:24.480",
+          "end": "01:58:26.390",
+          "text": "I >> I understand, Senator, we're good. Well,"
+        },
+        {
+          "start": "01:58:26.400",
+          "end": "01:58:27.589",
+          "text": "I understand, Senator, we're good. Well, like I said, we'll go anywhere we need"
+        },
+        {
+          "start": "01:58:27.599",
+          "end": "01:58:30.149",
+          "text": "like I said, we'll go anywhere we need to go, but I'm out there making hard."
+        },
+        {
+          "start": "01:58:30.159",
+          "end": "01:58:31.510",
+          "text": "to go, but I'm out there making hard. But any implication that I don't"
+        },
+        {
+          "start": "01:58:31.520",
+          "end": "01:58:32.709",
+          "text": "But any implication that I don't understand what veterans and veteran"
+        },
+        {
+          "start": "01:58:32.719",
+          "end": "01:58:34.550",
+          "text": "understand what veterans and veteran employees are saying, I'm not going to"
+        },
+        {
+          "start": "01:58:34.560",
+          "end": "01:58:36.070",
+          "text": "employees are saying, I'm not going to talk. I'm not going to accept the"
+        },
+        {
+          "start": "01:58:36.080",
+          "end": "01:58:37.270",
+          "text": "talk. I'm not going to accept the premise of that question because it's"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-07",
+      "slug": "76000-contracts-reviewed",
+      "title": "76,000 Contracts Reviewed — $5B in Savings",
+      "start": "01:59:23.000",
+      "end": "01:59:44.000",
+      "duration": 21.0,
+      "tier": 1,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins presents concrete numbers on contract accountability: 76,000 reviewed, 1,565 acted on, $5 billion in cost avoidance.",
+      "sample_post": "\"We reviewed 76,000 contracts. 620 terminated, 103 descoped, 842 options not exercised. $61.7 million saved plus $5 billion in cost avoidance. 1,565 total.\" — @SecVetAffairs",
+      "transcript": "Mr. Chairman, I believe we've provided that. And so we provided the review of 76,000 contracts. We identified the 620 contracts we terminated, the 103 we descoped, and the 842 we did not exercise options on. We provide the $61.7 million total and then the five billion in cost avoidance. So a total of 1,565 contracts. I believe we provided that.",
+      "srt_cues": [
+        {
+          "start": "01:59:23.280",
+          "end": "01:59:25.030",
+          "text": "has not yet happened. >> Mr. Chairman, I believe we've provided"
+        },
+        {
+          "start": "01:59:25.040",
+          "end": "01:59:26.629",
+          "text": "Mr. Chairman, I believe we've provided that. And so we we provided the review"
+        },
+        {
+          "start": "01:59:26.639",
+          "end": "01:59:28.790",
+          "text": "that. And so we we provided the review of 76,000 contracts. We identified the"
+        },
+        {
+          "start": "01:59:28.800",
+          "end": "01:59:31.510",
+          "text": "of 76,000 contracts. We identified the 620 contracts we terminated, the 103 we"
+        },
+        {
+          "start": "01:59:31.520",
+          "end": "01:59:33.589",
+          "text": "620 contracts we terminated, the 103 we descoped, and the 842 we did not"
+        },
+        {
+          "start": "01:59:33.599",
+          "end": "01:59:35.510",
+          "text": "descoped, and the 842 we did not exercise options on. We provide the"
+        },
+        {
+          "start": "01:59:35.520",
+          "end": "01:59:38.390",
+          "text": "exercise options on. We provide the $61.7 million total uh and then the five"
+        },
+        {
+          "start": "01:59:38.400",
+          "end": "01:59:41.030",
+          "text": "$61.7 million total uh and then the five billion in cost avoidance. So a total of"
+        },
+        {
+          "start": "01:59:41.040",
+          "end": "01:59:43.990",
+          "text": "billion in cost avoidance. So a total of 1,565 contracts. I believe we provided"
+        },
+        {
+          "start": "01:59:44.000",
+          "end": "01:59:44.470",
+          "text": "1,565 contracts. I believe we provided that."
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-08",
+      "slug": "no-change-in-research",
+      "title": "No Change in Research — We're Accountable Now",
+      "start": "01:56:21.000",
+      "end": "01:56:31.000",
+      "duration": 10.0,
+      "tier": 2,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins firmly states there is no change to VA research — the only change is accountability for the program.",
+      "sample_post": "\"There is no change in our research portfolio. No change in our research. What there IS change is we are accountable for the program.\" — Secretary Collins @SecVetAffairs",
+      "transcript": "Senator, there is no change in our research portfolio. There's no change in our research. What there is change is we are accountable for the program. We're managing it and our budget request reflects.",
+      "srt_cues": [
+        {
+          "start": "01:56:21.199",
+          "end": "01:56:21.910",
+          "text": "many people outside the veterans community."
+        },
+        {
+          "start": "01:56:21.920",
+          "end": "01:56:23.430",
+          "text": "community. >> Senator, there is no change in our"
+        },
+        {
+          "start": "01:56:23.440",
+          "end": "01:56:25.430",
+          "text": "Senator, there is no change in our research portfolio. There's no change in"
+        },
+        {
+          "start": "01:56:25.440",
+          "end": "01:56:27.270",
+          "text": "research portfolio. There's no change in our research. What there is change is we"
+        },
+        {
+          "start": "01:56:27.280",
+          "end": "01:56:28.870",
+          "text": "our research. What there is change is we are accountable for the program. We're"
+        },
+        {
+          "start": "01:56:28.880",
+          "end": "01:56:30.470",
+          "text": "are accountable for the program. We're managing it and our budget request"
+        },
+        {
+          "start": "01:56:30.480",
+          "end": "01:56:31.350",
+          "text": "managing it and our budget request reflects."
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-09",
+      "slug": "wrong-secretary",
+      "title": "You Got the Wrong Secretary",
+      "start": "00:29:55.000",
+      "end": "00:30:23.000",
+      "duration": 28.0,
+      "tier": 2,
+      "topics": [
+        "Benefits & Claims",
+        "Leadership & Culture"
+      ],
+      "description": "Collins points out that a cited IG report covered decisions made under the previous administration — 'you got the wrong secretary.'",
+      "sample_post": "\"Those decisions were reviewed from September '23 to August '24. Unfortunately, you got the wrong secretary here to ask why that happened.\" — @SecVetAffairs",
+      "transcript": "I have one quick question though, one thought though that you brought up an IG report. I do have to comment on that because you brought up an IG report that was released on April 30th in which Inspector General Mason called me and told me they were releasing because it was being lost, held or whatever in the system. The decisions that you referenced in your opening statement were reviewed from September of 23 to August of 24. Unfortunately, you got the wrong secretary here to ask why that happened.",
+      "srt_cues": [
+        {
+          "start": "00:29:55.679",
+          "end": "00:29:58.630",
+          "text": "I have one quick question though, one thought though that you brought up an an"
+        },
+        {
+          "start": "00:29:58.640",
+          "end": "00:30:01.590",
+          "text": "thought though that you brought up an an IG report and I do have to comment on"
+        },
+        {
+          "start": "00:30:01.600",
+          "end": "00:30:02.950",
+          "text": "IG report and I do have to comment on that because you brought up an IG report"
+        },
+        {
+          "start": "00:30:02.960",
+          "end": "00:30:04.870",
+          "text": "that because you brought up an IG report that was released on April 30th in which"
+        },
+        {
+          "start": "00:30:04.880",
+          "end": "00:30:07.029",
+          "text": "that was released on April 30th in which uh Inspector General Mason called me and"
+        },
+        {
+          "start": "00:30:07.039",
+          "end": "00:30:08.710",
+          "text": "uh Inspector General Mason called me and told me they were releasing because it"
+        },
+        {
+          "start": "00:30:08.720",
+          "end": "00:30:11.430",
+          "text": "told me they were releasing because it was being lost, held or whatever in the"
+        },
+        {
+          "start": "00:30:11.440",
+          "end": "00:30:13.669",
+          "text": "was being lost, held or whatever in the system that the decisions that you"
+        },
+        {
+          "start": "00:30:13.679",
+          "end": "00:30:15.110",
+          "text": "system that the decisions that you referenced in your opening statement"
+        },
+        {
+          "start": "00:30:15.120",
+          "end": "00:30:17.269",
+          "text": "referenced in your opening statement were reviewed from September of 23 to"
+        },
+        {
+          "start": "00:30:17.279",
+          "end": "00:30:19.909",
+          "text": "were reviewed from September of 23 to August of 24. Unfortunately, you got the"
+        },
+        {
+          "start": "00:30:19.919",
+          "end": "00:30:21.430",
+          "text": "August of 24. Unfortunately, you got the wrong secretary here to ask why that"
+        },
+        {
+          "start": "00:30:21.440",
+          "end": "00:30:23.190",
+          "text": "wrong secretary here to ask why that happened."
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-10",
+      "slug": "71-hospitals-not-dog-and-pony",
+      "title": "71 Hospitals — Not Just the Dog and Pony Show",
+      "start": "00:42:34.000",
+      "end": "00:42:53.000",
+      "duration": 19.0,
+      "tier": 2,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins describes his hands-on approach: visiting 71 hospitals, going through waiting rooms and patient rooms — not just photo ops.",
+      "sample_post": "\"I'm on the road at least two weeks a month. I've been in 71 hospitals and I go not just for the dog and pony show. I go through waiting rooms and patient rooms. The VA is not perfect, but we can get better.\" — @SecVetAffairs",
+      "transcript": "I'm on the road at least almost two weeks a month. I've been in 71 hospitals and I go not just for the dog and pony show. I actually go through waiting rooms. I go through patients rooms and we talk about this. There are issues. The VA is not perfect and I told you that the day we had our confirmation here. But the one thing is we can get better and we'll continue to.",
+      "srt_cues": [
+        {
+          "start": "00:42:34.319",
+          "end": "00:42:36.069",
+          "text": "and I and I appreciate that, Senator. I'm on the road at least almost two two"
+        },
+        {
+          "start": "00:42:36.079",
+          "end": "00:42:38.069",
+          "text": "I'm on the road at least almost two two weeks a month. I've been in 71 hospitals"
+        },
+        {
+          "start": "00:42:38.079",
+          "end": "00:42:40.309",
+          "text": "weeks a month. I've been in 71 hospitals and I go not just for the dog and pony"
+        },
+        {
+          "start": "00:42:40.319",
+          "end": "00:42:41.750",
+          "text": "and I go not just for the dog and pony show. I actually go through waiting"
+        },
+        {
+          "start": "00:42:41.760",
+          "end": "00:42:43.430",
+          "text": "show. I actually go through waiting rooms. I go through patients rooms and"
+        },
+        {
+          "start": "00:42:43.440",
+          "end": "00:42:45.030",
+          "text": "rooms. I go through patients rooms and we talk about this. There are issues."
+        },
+        {
+          "start": "00:42:45.040",
+          "end": "00:42:46.710",
+          "text": "we talk about this. There are issues. The VA is not perfect and I told you"
+        },
+        {
+          "start": "00:42:46.720",
+          "end": "00:42:48.150",
+          "text": "The VA is not perfect and I told you that the day we had our confirmation"
+        },
+        {
+          "start": "00:42:48.160",
+          "end": "00:42:49.750",
+          "text": "that the day we had our confirmation here. But the one thing is we can get"
+        },
+        {
+          "start": "00:42:49.760",
+          "end": "00:42:50.870",
+          "text": "here. But the one thing is we can get better and we'll continue to."
+        },
+        {
+          "start": "00:42:50.880",
+          "end": "00:42:52.230",
+          "text": "better and we'll continue to. >> I I have limited time here. I just want"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-11",
+      "slug": "direct-care-double-community-care",
+      "title": "We Still Spend Double on Direct Care",
+      "start": "00:17:10.000",
+      "end": "00:17:22.000",
+      "duration": 12.0,
+      "tier": 2,
+      "topics": [
+        "Community Care"
+      ],
+      "description": "Collins corrects a common misconception: VA still spends double on direct care compared to community care.",
+      "sample_post": "\"We're still spending double direct care over what we spend on community care. That's often a subject that is lost when we begin to talk about this.\" — Secretary Collins @SecVetAffairs",
+      "transcript": "Community care is law. We're going to follow the law and do that. Also, we're still spending double direct care over what we spend on community care. That's often a subject that is lost when we begin to talk about this.",
+      "srt_cues": [
+        {
+          "start": "00:17:09.520",
+          "end": "00:17:10.949",
+          "text": "what you just stated a few minutes ago, that we are serving more veterans,"
+        },
+        {
+          "start": "00:17:10.959",
+          "end": "00:17:12.390",
+          "text": "that we are serving more veterans, serving them better, and we're doing it"
+        },
+        {
+          "start": "00:17:12.400",
+          "end": "00:17:14.710",
+          "text": "serving them better, and we're doing it with the capacity of the great employees"
+        },
+        {
+          "start": "00:17:14.720",
+          "end": "00:17:16.150",
+          "text": "with the capacity of the great employees that we have, and I'm looking forward to"
+        },
+        {
+          "start": "00:17:16.160",
+          "end": "00:17:17.590",
+          "text": "that we have, and I'm looking forward to answering questions we have today. So,"
+        },
+        {
+          "start": "00:17:17.600",
+          "end": "00:17:20.630",
+          "text": "answering questions we have today. So, thank you so much, Mr. Chairman."
+        },
+        {
+          "start": "00:17:20.640",
+          "end": "00:17:22.309",
+          "text": "thank you so much, Mr. Chairman. >> Secretary, thank you very much for your"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-12",
+      "slug": "ehrm-more-centers-want-in",
+      "title": "EHRM Working — More Centers Want In",
+      "start": "00:33:18.000",
+      "end": "00:33:48.000",
+      "duration": 30.0,
+      "tier": 2,
+      "topics": [
+        "Technology & Digital Health"
+      ],
+      "description": "Collins reports EHRM rollout success in Michigan, saying his only problem is that more VA centers want to get ahead of the line because it's working.",
+      "sample_post": "\"My only problem right now is I have more VA centers wanting to get ahead of the line for electronic health records because it's actually working.\" — Secretary Collins @SecVetAffairs",
+      "transcript": "We just had a phenomenal roll out in Michigan so far. My only problem I have right now in the VA is I have more centers wanting to go ahead and get ahead of the line because it's actually working. But that connection between not only the community and the VA and electronic health records management is going to help get our veterans there.",
+      "srt_cues": [
+        {
+          "start": "00:33:19.039",
+          "end": "00:33:19.909",
+          "text": "there's a lot going on here. Uh, anything you want to add to that,"
+        },
+        {
+          "start": "00:33:19.919",
+          "end": "00:33:21.509",
+          "text": "anything you want to add to that, Richard?"
+        },
+        {
+          "start": "00:33:21.519",
+          "end": "00:33:23.669",
+          "text": "Richard? >> No, sir. I think you said it well."
+        },
+        {
+          "start": "00:33:23.679",
+          "end": "00:33:24.230",
+          "text": "No, sir. I think you said it well. >> Thank you."
+        },
+        {
+          "start": "00:33:24.240",
+          "end": "00:33:27.590",
+          "text": "Thank you. >> Wonderful. I do want to thank you uh for"
+        },
+        {
+          "start": "00:33:27.600",
+          "end": "00:33:31.190",
+          "text": "Wonderful. I do want to thank you uh for your work in keeping that McMinnville VA"
+        },
+        {
+          "start": "00:33:31.200",
+          "end": "00:33:33.750",
+          "text": "your work in keeping that McMinnville VA clinic open. We thank you for that. Can"
+        },
+        {
+          "start": "00:33:33.760",
+          "end": "00:33:36.389",
+          "text": "clinic open. We thank you for that. Can you speak for a little bit to how"
+        },
+        {
+          "start": "00:33:36.399",
+          "end": "00:33:39.110",
+          "text": "you speak for a little bit to how community care can help with that type"
+        },
+        {
+          "start": "00:33:39.120",
+          "end": "00:33:41.669",
+          "text": "community care can help with that type situation? Because here was a clinic"
+        },
+        {
+          "start": "00:33:41.679",
+          "end": "00:33:44.789",
+          "text": "situation? Because here was a clinic that was going to close. Uh it was going"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-13",
+      "slug": "mental-health-wait-times-improving",
+      "title": "Mental Health Wait Times Improving",
+      "start": "00:40:52.000",
+      "end": "00:41:08.000",
+      "duration": 16.0,
+      "tier": 2,
+      "topics": [
+        "Mental Health & Crisis Intervention"
+      ],
+      "description": "Collins cites concrete improvement in mental health wait times, down 2.8 days this year.",
+      "sample_post": "\"Mental health wait times have improved 2.8 days just this year — from 17.8 to 15. Our VA staff are getting veterans the care they need.\" — Secretary Collins @SecVetAffairs",
+      "transcript": "In fact, mental health has improved 2.8 days just this year from 17.8 to 15.",
+      "srt_cues": [
+        {
+          "start": "00:40:52.720",
+          "end": "00:40:56.230",
+          "text": "in fact that mental health has improved 2.8 days uh just this year from 17 a"
+        },
+        {
+          "start": "00:40:56.240",
+          "end": "00:40:58.710",
+          "text": "2.8 days uh just this year from 17 a 17.8 to 15. Well, let me just tell you,"
+        },
+        {
+          "start": "00:40:58.720",
+          "end": "00:41:01.589",
+          "text": "17.8 to 15. Well, let me just tell you, I I heard directly from uh veterans"
+        },
+        {
+          "start": "00:41:01.599",
+          "end": "00:41:04.790",
+          "text": "I I heard directly from uh veterans myself and from VA staff, and one VA"
+        },
+        {
+          "start": "00:41:04.800",
+          "end": "00:41:06.790",
+          "text": "myself and from VA staff, and one VA nurse actually talked to me about how"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-14",
+      "slug": "rid-of-bureaucracy",
+      "title": "Willing to Cut Bureaucracy for Veterans",
+      "start": "01:42:19.000",
+      "end": "01:42:26.000",
+      "duration": 7.0,
+      "tier": 2,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "A short, punchy statement: Collins declares he's more than willing to get rid of bureaucracy to help the veteran.",
+      "sample_post": "\"Senator, I'm more than willing to get rid of bureaucracy to help the veteran.\" — Secretary Collins @SecVetAffairs",
+      "transcript": "Senator, I'm more than willing to get rid of bureaucracy to help the veteran.",
+      "srt_cues": [
+        {
+          "start": "01:42:18.800",
+          "end": "01:42:20.390",
+          "text": "office and since Let's see if we can speed that up. Is that possible?"
+        },
+        {
+          "start": "01:42:20.400",
+          "end": "01:42:21.910",
+          "text": "speed that up. Is that possible? >> Senator, I'm more than willing to get"
+        },
+        {
+          "start": "01:42:21.920",
+          "end": "01:42:23.830",
+          "text": "Senator, I'm more than willing to get rid of bureaucracy to help the veteran."
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-15",
+      "slug": "chipin-greatest-tool",
+      "title": "CHIP-In Is Our Greatest Tool",
+      "start": "01:24:56.000",
+      "end": "01:25:40.000",
+      "duration": 44.0,
+      "tier": 3,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins praises the CHIP-In program as one of the greatest tools for advancing VA's direct care system and modernizing facilities through community partnerships.",
+      "sample_post": "\"CHIP-In is one of the greatest tools we could use to advance our direct care system and modernize our facilities — putting community with providers.\" — @SecVetAffairs",
+      "transcript": "I think CHIP-In is one of the greatest tools that we could use to advance our direct care system, to advance our hospitals, to get better in modernizing our facilities. Tulsa right now is getting ready to move into a facility in which Oklahoma State and our Muscogee VA have partnered, and they're working hand in glove to cut costs for both, but also improve care for both. We've seen this in Nebraska as well.",
+      "srt_cues": [
+        {
+          "start": "01:24:56.560",
+          "end": "01:24:57.910",
+          "text": "Very much so. any any project right now. I think chipin is one of the greatest"
+        },
+        {
+          "start": "01:24:57.920",
+          "end": "01:25:00.310",
+          "text": "I think chipin is one of the greatest tools that we could use to advance our"
+        },
+        {
+          "start": "01:25:00.320",
+          "end": "01:25:01.830",
+          "text": "tools that we could use to advance our direct care system, to advance our"
+        },
+        {
+          "start": "01:25:01.840",
+          "end": "01:25:05.189",
+          "text": "direct care system, to advance our hospitals, to get better in um our in"
+        },
+        {
+          "start": "01:25:05.199",
+          "end": "01:25:07.270",
+          "text": "hospitals, to get better in um our in modernizing our facilities. Uh Tulsa"
+        },
+        {
+          "start": "01:25:07.280",
+          "end": "01:25:09.189",
+          "text": "modernizing our facilities. Uh Tulsa right now is getting ready to move into"
+        },
+        {
+          "start": "01:25:09.199",
+          "end": "01:25:10.709",
+          "text": "right now is getting ready to move into a facility in which Oklahoma State and"
+        },
+        {
+          "start": "01:25:10.719",
+          "end": "01:25:14.149",
+          "text": "a facility in which Oklahoma State and and our Muscogee VA have have partnered"
+        },
+        {
+          "start": "01:25:14.159",
+          "end": "01:25:15.910",
+          "text": "and our Muscogee VA have have partnered in and they're they're working handing"
+        },
+        {
+          "start": "01:25:15.920",
+          "end": "01:25:17.669",
+          "text": "in and they're they're working handing glove to cut costs for both, but also"
+        },
+        {
+          "start": "01:25:17.679",
+          "end": "01:25:19.590",
+          "text": "glove to cut costs for both, but also improve care for both. Um we've seen"
+        },
+        {
+          "start": "01:25:19.600",
+          "end": "01:25:22.149",
+          "text": "improve care for both. Um we've seen this in Nebraska as well. I would love"
+        },
+        {
+          "start": "01:25:22.159",
+          "end": "01:25:24.629",
+          "text": "this in Nebraska as well. I would love to see more chip-in projects approved"
+        },
+        {
+          "start": "01:25:24.639",
+          "end": "01:25:26.390",
+          "text": "to see more chip-in projects approved because that's putting the community"
+        },
+        {
+          "start": "01:25:26.400",
+          "end": "01:25:28.550",
+          "text": "because that's putting the community with the the providers, making it better"
+        },
+        {
+          "start": "01:25:28.560",
+          "end": "01:25:30.310",
+          "text": "with the the providers, making it better for our veterans, but also helping our"
+        },
+        {
+          "start": "01:25:30.320",
+          "end": "01:25:32.229",
+          "text": "for our veterans, but also helping our communities by providing the expertise"
+        },
+        {
+          "start": "01:25:32.239",
+          "end": "01:25:35.430",
+          "text": "communities by providing the expertise that the the VA has as well in including"
+        },
+        {
+          "start": "01:25:35.440",
+          "end": "01:25:38.229",
+          "text": "that the the VA has as well in including private contributions under the CHIP and"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-16",
+      "slug": "no-manning-document",
+      "title": "We Had No Idea How Many Employees We Had",
+      "start": "00:12:40.000",
+      "end": "00:13:22.000",
+      "duration": 42.0,
+      "tier": 3,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins reveals that when he arrived at VA, they had no idea how many employees they had or where they were supposed to be working — no manning document.",
+      "sample_post": "\"When I first got to VA, we had no idea how many employees we had. No manning document. We now do, and we're putting the best people at the best places.\" — @SecVetAffairs",
+      "transcript": "When I first got there we had no idea how many employees we had. Number two, we had no idea where they were supposed to be working because we had no manning document. For anybody in your military, you would understand a manning document is essential to knowing where your people are and where they're not. We didn't have that. We now do and we're able to now begin to look and make arrangements to where we can put the best people at the best places at the best time.",
+      "srt_cues": [
+        {
+          "start": "00:12:40.000",
+          "end": "00:12:41.670",
+          "text": "couple of weeks ago with the Senate Appropriations Committee. I come is"
+        },
+        {
+          "start": "00:12:41.680",
+          "end": "00:12:44.550",
+          "text": "Appropriations Committee. I come is almost as at that point um as a tale of"
+        },
+        {
+          "start": "00:12:44.560",
+          "end": "00:12:46.069",
+          "text": "almost as at that point um as a tale of two cities, a tale of two departments,"
+        },
+        {
+          "start": "00:12:46.079",
+          "end": "00:12:47.509",
+          "text": "two cities, a tale of two departments, the one that I inherited and the one we"
+        },
+        {
+          "start": "00:12:47.519",
+          "end": "00:12:49.269",
+          "text": "the one that I inherited and the one we have now. And I think when as we look at"
+        },
+        {
+          "start": "00:12:49.279",
+          "end": "00:12:50.629",
+          "text": "have now. And I think when as we look at this and going forward today, there's"
+        },
+        {
+          "start": "00:12:50.639",
+          "end": "00:12:52.150",
+          "text": "this and going forward today, there's going to be a clear understanding that"
+        },
+        {
+          "start": "00:12:52.160",
+          "end": "00:12:54.310",
+          "text": "going to be a clear understanding that when we came forth and I set forth in"
+        },
+        {
+          "start": "00:12:54.320",
+          "end": "00:12:56.069",
+          "text": "when we came forth and I set forth in this uh body and said that the veteran"
+        },
+        {
+          "start": "00:12:56.079",
+          "end": "00:12:57.990",
+          "text": "this uh body and said that the veteran will come first at the VA, it was more"
+        },
+        {
+          "start": "00:12:58.000",
+          "end": "00:12:59.269",
+          "text": "will come first at the VA, it was more than a statement. It was more than a"
+        },
+        {
+          "start": "00:12:59.279",
+          "end": "00:13:01.030",
+          "text": "than a statement. It was more than a slogan. It was really the focus on how"
+        },
+        {
+          "start": "00:13:01.040",
+          "end": "00:13:02.949",
+          "text": "slogan. It was really the focus on how we do everything that we do. We can"
+        },
+        {
+          "start": "00:13:02.959",
+          "end": "00:13:05.269",
+          "text": "we do everything that we do. We can disagree on possibly ways to get there,"
+        },
+        {
+          "start": "00:13:05.279",
+          "end": "00:13:06.470",
+          "text": "disagree on possibly ways to get there, but at the end of the day, it's always"
+        },
+        {
+          "start": "00:13:06.480",
+          "end": "00:13:08.150",
+          "text": "but at the end of the day, it's always going to be about what is best for the"
+        },
+        {
+          "start": "00:13:08.160",
+          "end": "00:13:09.829",
+          "text": "going to be about what is best for the veteran. The veteran is the mission and"
+        },
+        {
+          "start": "00:13:09.839",
+          "end": "00:13:11.190",
+          "text": "veteran. The veteran is the mission and the mission is the veteran. That's all"
+        },
+        {
+          "start": "00:13:11.200",
+          "end": "00:13:13.910",
+          "text": "the mission is the veteran. That's all we do. And so if it's a choice between a"
+        },
+        {
+          "start": "00:13:13.920",
+          "end": "00:13:16.550",
+          "text": "we do. And so if it's a choice between a a structural issue at the VA and helping"
+        },
+        {
+          "start": "00:13:16.560",
+          "end": "00:13:19.030",
+          "text": "a structural issue at the VA and helping a veteran, the veterans uh needs are"
+        },
+        {
+          "start": "00:13:19.040",
+          "end": "00:13:20.710",
+          "text": "a veteran, the veterans uh needs are going to win out in that because I"
+        },
+        {
+          "start": "00:13:20.720",
+          "end": "00:13:21.829",
+          "text": "going to win out in that because I believe this committee and all"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-17",
+      "slug": "mdma-treatment-ahead-of-schedule",
+      "title": "MDMA Treatment Already Started — Ahead of Schedule",
+      "start": "01:38:08.000",
+      "end": "01:38:42.000",
+      "duration": 34.0,
+      "tier": 3,
+      "topics": [
+        "Mental Health & Crisis Intervention"
+      ],
+      "description": "Collins announces VA has already begun MDMA treatment ahead of schedule and discusses plans for ibogaine through FDA.",
+      "sample_post": "\"We just started another MDMA treatment at a VA facility — ahead of schedule. Ibogaine is next. It's going to take time through FDA, but we'll be prepared.\" — @SecVetAffairs",
+      "transcript": "One of the things — we just started, I think it was this week or this month, we just started another MDMA treatment that was already at a veteran facility that we've already started. So, we're already starting ahead of the schedule getting this done. The big one, and I'm just going to be very blunt and honest about this, ibogaine is our next probably big one. It's going to take a little time to get that because we don't have that. That's got to come through FDA first. We'll be prepared for that.",
+      "srt_cues": [
+        {
+          "start": "01:38:08.080",
+          "end": "01:38:09.430",
+          "text": "this done. The big one, and I'm just going to be very blunt and honest about"
+        },
+        {
+          "start": "01:38:09.440",
+          "end": "01:38:11.109",
+          "text": "going to be very blunt and honest about this, I gain is our next probably big"
+        },
+        {
+          "start": "01:38:11.119",
+          "end": "01:38:12.310",
+          "text": "this, I gain is our next probably big one. It's going to take a little time to"
+        },
+        {
+          "start": "01:38:12.320",
+          "end": "01:38:13.669",
+          "text": "one. It's going to take a little time to get that because we don't have that."
+        },
+        {
+          "start": "01:38:13.679",
+          "end": "01:38:15.510",
+          "text": "get that because we don't have that. That's got to come through FDA first."
+        },
+        {
+          "start": "01:38:15.520",
+          "end": "01:38:17.030",
+          "text": "That's got to come through FDA first. We'll be prepared for that. We also have"
+        },
+        {
+          "start": "01:38:17.040",
+          "end": "01:38:18.870",
+          "text": "We'll be prepared for that. We also have to have a federal source of sourcing the"
+        },
+        {
+          "start": "01:38:18.880",
+          "end": "01:38:21.030",
+          "text": "to have a federal source of sourcing the Ibagane uh which we don't have a costing"
+        },
+        {
+          "start": "01:38:21.040",
+          "end": "01:38:22.310",
+          "text": "Ibagane uh which we don't have a costing on at this point. So, we'll look forward"
+        },
+        {
+          "start": "01:38:22.320",
+          "end": "01:38:23.830",
+          "text": "on at this point. So, we'll look forward to doing that as we go forward. I think"
+        },
+        {
+          "start": "01:38:23.840",
+          "end": "01:38:25.510",
+          "text": "to doing that as we go forward. I think what our current the president budget"
+        },
+        {
+          "start": "01:38:25.520",
+          "end": "01:38:27.350",
+          "text": "what our current the president budget also supports anything we need to do to"
+        },
+        {
+          "start": "01:38:27.360",
+          "end": "01:38:29.510",
+          "text": "also supports anything we need to do to support uh that EO. Well, would really"
+        },
+        {
+          "start": "01:38:29.520",
+          "end": "01:38:30.709",
+          "text": "support uh that EO. Well, would really love a commitment for you to work with"
+        },
+        {
+          "start": "01:38:30.719",
+          "end": "01:38:32.229",
+          "text": "love a commitment for you to work with Congress on closing the gap between our"
+        },
+        {
+          "start": "01:38:32.239",
+          "end": "01:38:33.910",
+          "text": "Congress on closing the gap between our research of these promising innovative"
+        },
+        {
+          "start": "01:38:33.920",
+          "end": "01:38:36.149",
+          "text": "research of these promising innovative therapies and veterans access to these"
+        },
+        {
+          "start": "01:38:36.159",
+          "end": "01:38:37.669",
+          "text": "therapies and veterans access to these uh treatments because that's usually the"
+        },
+        {
+          "start": "01:38:37.679",
+          "end": "01:38:39.109",
+          "text": "uh treatments because that's usually the kind of the gap that does exist."
+        },
+        {
+          "start": "01:38:39.119",
+          "end": "01:38:40.149",
+          "text": "kind of the gap that does exist. >> Yeah, that's going to be and and that's"
+        },
+        {
+          "start": "01:38:40.159",
+          "end": "01:38:41.350",
+          "text": "Yeah, that's going to be and and that's one of the things I want everybody just"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-18",
+      "slug": "rural-healthcare-partnership",
+      "title": "60% of Veterans Live in Rural Areas",
+      "start": "01:00:40.000",
+      "end": "01:01:04.000",
+      "duration": 24.0,
+      "tier": 3,
+      "topics": [
+        "Rural Health",
+        "Community Care"
+      ],
+      "description": "Collins and his team highlight that VA provides 5% of reimbursement for rural healthcare providers operating on less than 1% margins — a critical partnership with 60% of veterans in rural areas.",
+      "sample_post": "\"60% of our veterans live in rural areas. VA reimbursement provides a critical role in sustaining rural healthcare infrastructure. This is a partnership.\" — @SecVetAffairs",
+      "transcript": "On average, VA provides 5% of reimbursement for rural health care providers. So that's rural hospitals, doctors, nurses, home health agencies, mental health providers. These agencies often operate on margins of less than 1% and at 5% of their revenue, VA reimbursement provides a critical role in sustaining the infrastructure. 60% of our veterans live in rural areas. This is a partnership that benefits VA and our veterans.",
+      "srt_cues": [
+        {
+          "start": "01:00:40.079",
+          "end": "01:00:42.549",
+          "text": "health care providers. So that's rural hospitals, doctors, nurses, home health"
+        },
+        {
+          "start": "01:00:42.559",
+          "end": "01:00:45.030",
+          "text": "hospitals, doctors, nurses, home health agencies, mental health providers. These"
+        },
+        {
+          "start": "01:00:45.040",
+          "end": "01:00:47.430",
+          "text": "agencies, mental health providers. These these agencies often operate on margins"
+        },
+        {
+          "start": "01:00:47.440",
+          "end": "01:00:49.589",
+          "text": "these agencies often operate on margins of less than 1% and at 5% of their"
+        },
+        {
+          "start": "01:00:49.599",
+          "end": "01:00:52.150",
+          "text": "of less than 1% and at 5% of their revenue. Uh VA reimbursement provides a"
+        },
+        {
+          "start": "01:00:52.160",
+          "end": "01:00:53.270",
+          "text": "revenue. Uh VA reimbursement provides a critical role in sustaining the"
+        },
+        {
+          "start": "01:00:53.280",
+          "end": "01:00:55.270",
+          "text": "critical role in sustaining the infrastructure. 60% of our veterans live"
+        },
+        {
+          "start": "01:00:55.280",
+          "end": "01:00:57.109",
+          "text": "infrastructure. 60% of our veterans live in rural areas. This is a partnership"
+        },
+        {
+          "start": "01:00:57.119",
+          "end": "01:00:59.750",
+          "text": "in rural areas. This is a partnership that benefits VA and our veterans."
+        },
+        {
+          "start": "01:00:59.760",
+          "end": "01:01:02.309",
+          "text": "that benefits VA and our veterans. >> How much in Arkansas? And sir, just by"
+        },
+        {
+          "start": "01:01:02.319",
+          "end": "01:01:03.510",
+          "text": "How much in Arkansas? And sir, just by way of one example, last year in"
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-19",
+      "slug": "10-billion-construction-investment",
+      "title": "$10.4 Billion Construction Investment",
+      "start": "00:49:50.000",
+      "end": "00:50:30.000",
+      "duration": 40.0,
+      "tier": 3,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins outlines the $10.4 billion construction investment in the president's budget, including $5 billion in facility maintenance and new facilities.",
+      "sample_post": "\"The president's budget includes $10.4 billion in construction — $5 billion in facility maintenance, new facilities in Indianapolis, San Antonio, and Manchester.\" — @SecVetAffairs",
+      "transcript": "One of the things we're excited about in the president's budget is the $10.4 billion investment in construction. That includes a continuation of the $5 billion in investment we've made in maintenance in our facilities this year. Average physical age of physical plant in VA is 60 years. That $5 billion we are spending this year is investing in that infrastructure.",
+      "srt_cues": [
+        {
+          "start": "00:49:50.800",
+          "end": "00:49:53.430",
+          "text": "our facilities this year. As you know, average physical age of physical plant"
+        },
+        {
+          "start": "00:49:53.440",
+          "end": "00:49:56.470",
+          "text": "average physical age of physical plant in VA is 60 years. That $5 billion we"
+        },
+        {
+          "start": "00:49:56.480",
+          "end": "00:49:57.829",
+          "text": "in VA is 60 years. That $5 billion we are spending this year is investing in"
+        },
+        {
+          "start": "00:49:57.839",
+          "end": "00:49:59.670",
+          "text": "are spending this year is investing in that infrastructure. President's budget"
+        },
+        {
+          "start": "00:49:59.680",
+          "end": "00:50:01.829",
+          "text": "that infrastructure. President's budget includes $5 billion in investment next"
+        },
+        {
+          "start": "00:50:01.839",
+          "end": "00:50:03.670",
+          "text": "includes $5 billion in investment next year as well as well as the addition of"
+        },
+        {
+          "start": "00:50:03.680",
+          "end": "00:50:05.270",
+          "text": "year as well as well as the addition of new facilities facilities in"
+        },
+        {
+          "start": "00:50:05.280",
+          "end": "00:50:08.309",
+          "text": "new facilities facilities in Indianapolis, San Antonio, Manchester u"
+        },
+        {
+          "start": "00:50:08.319",
+          "end": "00:50:10.230",
+          "text": "Indianapolis, San Antonio, Manchester u as well as our minor construction"
+        },
+        {
+          "start": "00:50:10.240",
+          "end": "00:50:11.829",
+          "text": "as well as our minor construction projects getting up to date on where"
+        },
+        {
+          "start": "00:50:11.839",
+          "end": "00:50:13.109",
+          "text": "projects getting up to date on where we're at. So we thank you for the"
+        },
+        {
+          "start": "00:50:13.119",
+          "end": "00:50:14.230",
+          "text": "we're at. So we thank you for the support. We've been able to do that. We"
+        },
+        {
+          "start": "00:50:14.240",
+          "end": "00:50:15.829",
+          "text": "support. We've been able to do that. We thank you for the support on electronic"
+        },
+        {
+          "start": "00:50:15.839",
+          "end": "00:50:17.990",
+          "text": "thank you for the support on electronic health records as well. That allows this"
+        },
+        {
+          "start": "00:50:18.000",
+          "end": "00:50:19.430",
+          "text": "health records as well. That allows this portability, this interplay issue that"
+        },
+        {
+          "start": "00:50:19.440",
+          "end": "00:50:20.950",
+          "text": "portability, this interplay issue that we've got going as well, too. So, thank"
+        },
+        {
+          "start": "00:50:20.960",
+          "end": "00:50:23.430",
+          "text": "we've got going as well, too. So, thank you,"
+        },
+        {
+          "start": "00:50:23.440",
+          "end": "00:50:26.309",
+          "text": "you, Senator Ruono."
+        },
+        {
+          "start": "00:50:26.319",
+          "end": "00:50:28.390",
+          "text": "Senator Ruono. >> Thank you, Mr. Chairman."
+        }
+      ]
+    },
+    {
+      "clip_id": "SC-20",
+      "slug": "research-accountability-numbers",
+      "title": "4,377 Research Projects — Fully Tracked",
+      "start": "01:54:30.000",
+      "end": "01:55:06.000",
+      "duration": 36.0,
+      "tier": 3,
+      "topics": [
+        "Leadership & Culture"
+      ],
+      "description": "Collins details VA research accountability: tracking 4,377 research projects with outcomes, managing 17,282 overall research efforts.",
+      "sample_post": "\"We have 4,377 research projects. We are tracking those projects. We can tell you where we're at, what the outcomes are, and how they benefit veterans.\" — @SecVetAffairs",
+      "transcript": "We have 4,377 research projects. We are tracking those projects. We can tell you where we're at. We can tell you what the outcomes are and how those benefit veterans. We've got 17,282 overall research that we're supporting. Our budget request supports that, is responsive to your demands that we understand, manage, and be accountable for the outcomes of this program.",
+      "srt_cues": [
+        {
+          "start": "01:54:30.800",
+          "end": "01:54:32.070",
+          "text": "get a hold of it. And last year, legislation was proposed that would have"
+        },
+        {
+          "start": "01:54:32.080",
+          "end": "01:54:34.310",
+          "text": "legislation was proposed that would have required us to track research, spending,"
+        },
+        {
+          "start": "01:54:34.320",
+          "end": "01:54:36.629",
+          "text": "required us to track research, spending, and outcomes. Um, that's where we were,"
+        },
+        {
+          "start": "01:54:36.639",
+          "end": "01:54:39.109",
+          "text": "and outcomes. Um, that's where we were, where we are. We have 4,377"
+        },
+        {
+          "start": "01:54:39.119",
+          "end": "01:54:40.709",
+          "text": "where we are. We have 4,377 research projects. We are tracking those"
+        },
+        {
+          "start": "01:54:40.719",
+          "end": "01:54:41.750",
+          "text": "research projects. We are tracking those projects. We can tell you where we're"
+        },
+        {
+          "start": "01:54:41.760",
+          "end": "01:54:42.709",
+          "text": "projects. We can tell you where we're at. We can tell you what the outcomes"
+        },
+        {
+          "start": "01:54:42.719",
+          "end": "01:54:44.310",
+          "text": "at. We can tell you what the outcomes are and how those benefit veterans."
+        },
+        {
+          "start": "01:54:44.320",
+          "end": "01:54:47.430",
+          "text": "are and how those benefit veterans. We've got 17,282 overall research that"
+        },
+        {
+          "start": "01:54:47.440",
+          "end": "01:54:49.750",
+          "text": "We've got 17,282 overall research that we're supporting. Our budget request"
+        },
+        {
+          "start": "01:54:49.760",
+          "end": "01:54:51.830",
+          "text": "we're supporting. Our budget request supports that is responsive to your"
+        },
+        {
+          "start": "01:54:51.840",
+          "end": "01:54:53.910",
+          "text": "supports that is responsive to your demands that we understand, manage, and"
+        },
+        {
+          "start": "01:54:53.920",
+          "end": "01:54:55.189",
+          "text": "demands that we understand, manage, and be accountable for the outcomes of this"
+        },
+        {
+          "start": "01:54:55.199",
+          "end": "01:54:57.270",
+          "text": "be accountable for the outcomes of this program. Um, and the budget request is"
+        },
+        {
+          "start": "01:54:57.280",
+          "end": "01:55:00.870",
+          "text": "program. Um, and the budget request is there. I don't understand what you've"
+        },
+        {
+          "start": "01:55:00.880",
+          "end": "01:55:01.910",
+          "text": "there. I don't understand what you've just said to me."
+        },
+        {
+          "start": "01:55:01.920",
+          "end": "01:55:02.709",
+          "text": "just said to me. >> We'll be happy."
+        },
+        {
+          "start": "01:55:02.719",
+          "end": "01:55:05.589",
+          "text": "We'll be happy. >> Why? Why? You're doing great work and"
+        }
+      ]
+    }
+  ]
+}
