@@ -35,8 +35,15 @@ def download_video(youtube_url: str, output_dir: Path) -> Path:
         "-f", "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
         "--merge-output-format", "mp4",
         "-o", output_template,
-        youtube_url,
     ]
+
+    # Use cookies file if present (needed for datacenter IPs)
+    cookies_path = Path(__file__).parent / "cookies.txt"
+    if cookies_path.exists():
+        cmd.extend(["--cookies", str(cookies_path)])
+        print("Using cookies.txt for authentication")
+
+    cmd.append(youtube_url)
     print(f"\n{'='*60}")
     print(f"DOWNLOADING VIDEO")
     print(f"{'='*60}")
