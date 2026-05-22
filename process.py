@@ -182,13 +182,22 @@ def main():
     output_dir = Path(__file__).parent / "output"
     output_dir.mkdir(exist_ok=True)
 
-    # Clean previous output
+    # Clean previous output (but keep source video if pre-uploaded)
     for f in output_dir.iterdir():
-        if f.is_file():
+        if f.is_file() and not f.name.startswith("source."):
             f.unlink()
 
-    # Download the video
-    source_video = download_video(job["youtube_url"], output_dir)
+    # Download the video (or use pre-uploaded source)
+    source_candidates = list(output_dir.glob("source.*"))
+    source_video = None
+    for sc in source_candidates:
+        if sc.suffix in (".mp4", ".mkv", ".webm"):
+            source_video = sc
+            print(f"Using pre-uploaded video: {sc.name} ({sc.stat().st_size / (1024*1024):.1f} MB)")
+            break
+
+    if source_video is None:
+        source_video = download_video(job["youtube_url"], output_dir)
 
     # Cut each clip
     print(f"\n{'='*60}")
